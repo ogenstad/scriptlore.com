@@ -3,7 +3,7 @@
 title:            Scriptlore
 locale:           en_US
 url: 'http://scriptlore.com'
-image_url: "/images/"
+image_url: "http://scriptlore.com/images"
 
 # Jekyll configuration
 
